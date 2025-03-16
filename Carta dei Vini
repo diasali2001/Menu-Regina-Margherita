@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regina Margherita - Carta dei Vini</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #d4a35e;
+            color: #4a1c1c;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #6b1c1c;
+        }
+        .menu-section {
+            margin: 20px 0;
+        }
+        table {
+            width: 80%;
+            margin: auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border-bottom: 1px solid #4a1c1c;
+            padding: 10px;
+        }
+        th {
+            background-color: #a84c3e;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Regina Margherita</h1>
+    <h2>Carta dei Vini</h2>
+
+    <div class="menu-section">
+        <h3>Vini Rossi</h3>
+        <table>
+            <tr><th>Nome</th><th>Bicchiere (€)</th><th>Bottiglia (€)</th></tr>
+            <tr><td>Il Puro Merlot</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Notte Rosso Primitivo</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Cirò</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Nobili Melissesi - Gaglioppo</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Cabernet Sauvignon</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Vecchio Marone</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Cabernet Sauvignon e Magliocco</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Survia</td><td>-</td><td>40.00</td></tr>
+            <tr><td>San Giù-Syrah</td><td>-</td><td>35.00</td></tr>
+        </table>
+    </div>
+
+    <div class="menu-section">
+        <h3>Vini Bianchi</h3>
+        <table>
+            <tr><th>Nome</th><th>Bicchiere (€)</th><th>Bottiglia (€)</th></tr>
+            <tr><td>Desiata</td><td>3.00</td><td>10.00</td></tr>
+            <tr><td>Nobili Melissesi</td><td>5.00</td><td>18.00</td></tr>
+            <tr><td>Cirò</td><td>6.00</td><td>20.00</td></tr>
+        </table>
+    </div>
+
+    <div class="menu-section">
+        <h3>Rosè</
